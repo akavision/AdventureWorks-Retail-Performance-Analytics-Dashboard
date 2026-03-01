@@ -193,7 +193,13 @@ Full customer ranking by orders and revenue with drill-through capability.
 
 ## 📸 Dashboard Preview
 
-![AdventureWorks Retail Performance Analytics Dashboard](preview.png)
+![Executive Summary](https://raw.githubusercontent.com/akavision/AdventureWorks-Retail-Performance-Analytics-Dashboard/main/Snapshot%20of%20Dashboard1.png)
+
+![Map View](https://raw.githubusercontent.com/akavision/AdventureWorks-Retail-Performance-Analytics-Dashboard/main/Snapshot%20of%20Dashboard2.png)
+
+![Product Detail](https://raw.githubusercontent.com/akavision/AdventureWorks-Retail-Performance-Analytics-Dashboard/main/Snapshot%20of%20Dashboard3.png)
+
+![Customer Detail](https://raw.githubusercontent.com/akavision/AdventureWorks-Retail-Performance-Analytics-Dashboard/main/Snapshot%20of%20Dashboard4.png)
 
 ---
 
