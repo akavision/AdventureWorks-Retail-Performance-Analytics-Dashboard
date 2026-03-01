@@ -26,7 +26,7 @@ The dashboard was built using the following tools and technologies:
 
 ## 📂 Data Source
 
-**Source:** AdventureWorks sample dataset (Microsoft)
+Source: AdventureWorks sample dataset (Microsoft / Maven Analytics)
 
 The data model follows a **Star Schema** with 2 fact tables and 6 dimension tables:
 
